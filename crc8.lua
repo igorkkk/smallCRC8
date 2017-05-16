@@ -79,4 +79,3 @@ M.crc8_table = {
 	end
 	
 return M
-
